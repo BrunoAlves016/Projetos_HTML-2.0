@@ -1,0 +1,116 @@
+table{
+border-collapse: collapse;
+}
+
+td,th{
+    border: 1px solid black;
+}
+
+#gow3{
+    font-size: x-large;
+    font-family: GODOFWAR;
+    background-color: rgb(251, 9, 9);
+    color: white;   
+}
+
+#spiderman{
+    font-size: x-large;
+    font-family: spiderman;
+    background-color: rgb(0, 0, 0);
+    color:white
+}
+#thelastofus{
+    font-size: x-large;
+    font-family: thelastofus;
+    background-color:  rgb(241, 223, 103);
+    color:dimgray
+}
+#reddeadredemption{
+    font-size: x-large;
+    font-family: CHINESER;
+    background-color:  rgb(255, 0, 0);
+    color:white
+}
+#assassinscreed{
+    font-size: x-large;
+    font-family: assassinscreed;
+    background-color:  rgb(214, 219, 217);
+    color:black
+}
+
+#thelastofus2{
+    font-size: x-large;
+    font-family: thelastofus;
+    background-color:  rgb(35, 35, 35);
+    color:white
+}
+
+#dyinglight{
+    font-size: x-large;
+    font-family: bebas  neue;
+    background-color:  rgb(0, 0, 0);
+    color:white
+}
+
+#deadisland{
+    font-size: x-large;
+    font-family: deadisland;
+    background-color:  rgb(131, 176, 176);
+    color:red
+}
+
+#uncharted{
+    font-size: x-large;
+    font-family: base02;
+    background-color:  rgb(255, 128, 0);
+    color:white
+}
+
+#mortalkombat{
+    font-size: x-large;
+    font-family: MKXTitle;
+    background-color:  rgb(0, 0, 0);
+    color:white
+}
+
+
+@font-face {
+    font-family:GODOFWAR;
+    src: url(fonte/godofwar/GODOFWAR.TTF);
+}
+@font-face {
+    font-family: spiderman;
+    src:url(fonte/the_amazing_spider_man/The\ Amazing\ Spider-Man.ttf);
+}
+@font-face {
+    font-family: thelastofus;
+    src: url(fonte/The\ Last\ Of\ Us\ Rough.ttf);
+}
+@font-face {
+    font-family: CHINESER;
+    src: url(fonte/red-dead-redemption/red-dead-redemption/CHINESER.TTF);
+}
+@font-face {
+    font-family: assassinscreed;
+    src: url(fonte/assassin/Assassin$.ttf);
+}
+@font-face {
+    font-family: thelastofus;
+    src: url(fonte/The\ Last\ Of\ Us\ Rough.ttf);
+}
+@font-face {
+    font-family: bebasneue ;
+    src: url(fonte/bebas_neue/BebasNeue-Regular.ttf);
+}
+@font-face {
+    font-family: deadisland;
+    src: url(fonte/dead-island/Dead\ Island.ttf);
+}
+@font-face {
+    font-family: base02 ;
+    src: url(fonte/base-02/Base\ 02.ttf);
+}
+@font-face {
+    font-family:MKXTitle ;
+    src: url(fonte/mkx_title/MKX\ Title.ttf);
+}

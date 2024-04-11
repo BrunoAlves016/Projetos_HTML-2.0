@@ -1,0 +1,64 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(img/luffy.png);
+}
+
+#Topo{
+    margin-bottom: 20px;
+    width: 100%;
+    height: 50px;
+}
+#Título{
+    float: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 43%;
+  
+
+}
+#Perfil{
+    
+    width: 50px;
+    height: 50px;
+    float: right;
+
+}
+#Menu{
+    
+    margin-bottom: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    border-radius: 20px;
+    width: 100%;
+    height: 40px;
+
+}
+#posts{
+    float: left;
+    margin: 5px 5px 2px 5px;
+}
+#about{
+    float: right;
+    padding: 5px;
+    margin-right: 7px;
+}
+#ListaPostagens{
+    
+    width: 200px;
+    float: left;
+    border-radius: 20px;
+
+
+}
+.textposts{
+    margin: 5px 10px 2px 20px;
+}
+#Conteúdo{
+  
+    margin-top: 0px;
+    margin-left: 250px;
+    padding-left: 10px;
+    color: aliceblue;
+
+
+}
